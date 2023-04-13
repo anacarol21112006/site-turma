@@ -1,3 +1,17 @@
-header{
-     background-color: aqua;
-}    color: white
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.cabecalho {
+    background-color:#9c36e0 ;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 12px 0;
+}
+
+.cabecalho-imagem{
+    width: 05%;
+}
