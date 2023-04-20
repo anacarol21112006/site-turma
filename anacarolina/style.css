@@ -11,4 +11,11 @@
     align-items: center;
     padding: 12px 0;
 }
-
+.cabeçalho-imagem{
+    text-decoration: none;
+    color: aliceblue;
+}
+.escola-imagem{
+    width: 25%;
+}
+    
